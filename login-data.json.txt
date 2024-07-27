@@ -1,0 +1,12 @@
+{
+    "users": {
+        "user1": {
+            "password": "123456",
+            "recoveryKey": "recovery123"
+        },
+        "user2": {
+            "password": "654321",
+            "recoveryKey": "recovery456"
+        }
+    }
+}
