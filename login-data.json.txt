@@ -1,7 +1,7 @@
 {
     "users": {
         "Adm": {
-            "password": "123456",
+            "password": "adm",
             "recoveryKey": "123456"
         },
         "adm": {
