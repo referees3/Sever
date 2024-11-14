@@ -1,0 +1,131 @@
+{
+  "usuarios": [
+
+
+    {
+      "User": "admin",
+      "total_balance": "5,00 R$",
+      "email": "admin@gmail.com",
+      "senha": "admin777",
+      "redirect": "z-id-00001-admin.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.000000001 RN"
+      },
+      "Nome do arquivo": "z-id-admin",
+      "Recebimento": "RfStudio.32.20.08.rf"
+    },
+
+
+    {
+      "User": "0",
+      "total_balance": "0,00 R$",
+      "email": "097535@gmail.com",
+      "senha": "0",
+      "redirect": "car.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.00 RN"
+      },
+      "Nome do arquivo": "0",
+      "Recebimento": "id"
+    },
+
+    {
+      "User": "0",
+      "total_balance": "0,00 R$",
+      "email": "22222@gmail.com",
+      "senha": "0",
+      "redirect": "car.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.00 RN"
+      },
+      "Nome do arquivo": "0",
+      "Recebimento": "id"
+    },
+
+    {
+      "User": "0",
+      "total_balance": "0,00 R$",
+      "email": "44444@gmail.com",
+      "senha": "0",
+      "redirect": "car.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.00 RN"
+      },
+      "Nome do arquivo": "0",
+      "Recebimento": "id"
+    },
+
+    {
+      "User": "0",
+      "total_balance": "0,00 R$",
+      "email": "76777@gmail.com",
+      "senha": "0",
+      "redirect": "car.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.00 RN"
+      },
+      "Nome do arquivo": "0",
+      "Recebimento": "id"
+    },
+
+    {
+      "User": "0",
+      "total_balance": "0,00 R$",
+      "email": "0000@gmail.com",
+      "senha": "0",
+      "redirect": "car.html",
+      "coins": {
+        "BNB": "0,00 BNB",
+        "BTC": "0,00 BTC",
+        "DOGE": "0,00 DOGE",
+        "ETH": "0,00 ETH",
+        "TRX": "0,00 TRX",
+        "USDC": "0,00 USDC",
+        "USDT": "0,00 USDT",
+        "Rinix Coin": "0.00 RN"
+      },
+      "Nome do arquivo": "0",
+      "Recebimento": "id"
+    }
+
+
+
+
+
+  ]
+}
